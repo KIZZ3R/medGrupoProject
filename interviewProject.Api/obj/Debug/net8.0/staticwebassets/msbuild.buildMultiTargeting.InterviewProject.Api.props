@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InterviewProject.Api.props" />
+</Project>

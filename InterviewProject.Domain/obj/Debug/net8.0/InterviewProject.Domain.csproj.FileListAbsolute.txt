@@ -1,0 +1,11 @@
+C:\Users\vitor\Documents\projetos\medGrupo\InterviewProject.Domain\obj\Debug\net8.0\InterviewProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Documents\projetos\medGrupo\InterviewProject.Domain\obj\Debug\net8.0\InterviewProject.Domain.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\projetos\medGrupo\InterviewProject.Domain\obj\Debug\net8.0\InterviewProject.Domain.AssemblyInfo.cs
+C:\Users\vitor\Documents\projetos\medGrupo\InterviewProject.Domain\obj\Debug\net8.0\InterviewProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\projetos\medGrupo\InterviewProject.Domain\bin\Debug\net8.0\InterviewProject.Domain.deps.json
+C:\Users\vitor\Documents\projetos\medGrupo\InterviewProject.Domain\bin\Debug\net8.0\InterviewProject.Domain.dll
+C:\Users\vitor\Documents\projetos\medGrupo\InterviewProject.Domain\bin\Debug\net8.0\InterviewProject.Domain.pdb
+C:\Users\vitor\Documents\projetos\medGrupo\InterviewProject.Domain\obj\Debug\net8.0\InterviewProject.Domain.dll
+C:\Users\vitor\Documents\projetos\medGrupo\InterviewProject.Domain\obj\Debug\net8.0\refint\InterviewProject.Domain.dll
+C:\Users\vitor\Documents\projetos\medGrupo\InterviewProject.Domain\obj\Debug\net8.0\InterviewProject.Domain.pdb
+C:\Users\vitor\Documents\projetos\medGrupo\InterviewProject.Domain\obj\Debug\net8.0\ref\InterviewProject.Domain.dll

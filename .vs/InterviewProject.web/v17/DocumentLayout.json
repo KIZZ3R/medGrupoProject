@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4031B7DE-ADCA-41FF-93D9-23E76EDC81AE}|InterviewProject.Test\\InterviewProject.Test.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.test\\tests\\testscontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4031B7DE-ADCA-41FF-93D9-23E76EDC81AE}|InterviewProject.Test\\InterviewProject.Test.csproj|solutionrelative:interviewproject.test\\tests\\testscontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AF983F-C26A-4692-895B-444E0CAEC5CD}|InterviewProject.Service\\InterviewProject.Service.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.service\\validation\\contactvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AF983F-C26A-4692-895B-444E0CAEC5CD}|InterviewProject.Service\\InterviewProject.Service.csproj|solutionrelative:interviewproject.service\\validation\\contactvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AF983F-C26A-4692-895B-444E0CAEC5CD}|InterviewProject.Service\\InterviewProject.Service.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.service\\viewmodel\\viewmodelcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AF983F-C26A-4692-895B-444E0CAEC5CD}|InterviewProject.Service\\InterviewProject.Service.csproj|solutionrelative:interviewproject.service\\viewmodel\\viewmodelcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AF983F-C26A-4692-895B-444E0CAEC5CD}|InterviewProject.Service\\InterviewProject.Service.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.service\\service\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AF983F-C26A-4692-895B-444E0CAEC5CD}|InterviewProject.Service\\InterviewProject.Service.csproj|solutionrelative:interviewproject.service\\service\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AF983F-C26A-4692-895B-444E0CAEC5CD}|InterviewProject.Service\\InterviewProject.Service.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.service\\service\\interface\\icontatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AF983F-C26A-4692-895B-444E0CAEC5CD}|InterviewProject.Service\\InterviewProject.Service.csproj|solutionrelative:interviewproject.service\\service\\interface\\icontatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AF983F-C26A-4692-895B-444E0CAEC5CD}|InterviewProject.Service\\InterviewProject.Service.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.service\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AF983F-C26A-4692-895B-444E0CAEC5CD}|InterviewProject.Service\\InterviewProject.Service.csproj|solutionrelative:interviewproject.service\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.api\\configuration\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|solutionrelative:interviewproject.api\\configuration\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E649789-5A44-4F6D-912B-03BC0CC51E1B}|InterviewProject.Data\\InterviewProject.Infrastructure.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.data\\repository\\contactsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E649789-5A44-4F6D-912B-03BC0CC51E1B}|InterviewProject.Data\\InterviewProject.Infrastructure.csproj|solutionrelative:interviewproject.data\\repository\\contactsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E649789-5A44-4F6D-912B-03BC0CC51E1B}|InterviewProject.Data\\InterviewProject.Infrastructure.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.data\\repository\\interface\\icontactsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E649789-5A44-4F6D-912B-03BC0CC51E1B}|InterviewProject.Data\\InterviewProject.Infrastructure.csproj|solutionrelative:interviewproject.data\\repository\\interface\\icontactsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E649789-5A44-4F6D-912B-03BC0CC51E1B}|InterviewProject.Data\\InterviewProject.Infrastructure.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.data\\migrations\\interviewprojectdbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E649789-5A44-4F6D-912B-03BC0CC51E1B}|InterviewProject.Data\\InterviewProject.Infrastructure.csproj|solutionrelative:interviewproject.data\\migrations\\interviewprojectdbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E649789-5A44-4F6D-912B-03BC0CC51E1B}|InterviewProject.Data\\InterviewProject.Infrastructure.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.data\\migrations\\20240517135351_contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E649789-5A44-4F6D-912B-03BC0CC51E1B}|InterviewProject.Data\\InterviewProject.Infrastructure.csproj|solutionrelative:interviewproject.data\\migrations\\20240517135351_contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E649789-5A44-4F6D-912B-03BC0CC51E1B}|InterviewProject.Data\\InterviewProject.Infrastructure.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.data\\data\\interviewprojectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E649789-5A44-4F6D-912B-03BC0CC51E1B}|InterviewProject.Data\\InterviewProject.Infrastructure.csproj|solutionrelative:interviewproject.data\\data\\interviewprojectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E93E0F1-AE27-48D0-846A-3B1E00D7E93A}|InterviewProject.Domain\\InterviewProject.Domain.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.domain\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E93E0F1-AE27-48D0-846A-3B1E00D7E93A}|InterviewProject.Domain\\InterviewProject.Domain.csproj|solutionrelative:interviewproject.domain\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E93E0F1-AE27-48D0-846A-3B1E00D7E93A}|InterviewProject.Domain\\InterviewProject.Domain.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.domain\\entities\\contactbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E93E0F1-AE27-48D0-846A-3B1E00D7E93A}|InterviewProject.Domain\\InterviewProject.Domain.csproj|solutionrelative:interviewproject.domain\\entities\\contactbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|solutionrelative:interviewproject.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.api\\configuration\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|solutionrelative:interviewproject.api\\configuration\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|solutionrelative:interviewproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|solutionrelative:interviewproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|solutionrelative:interviewproject.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4031B7DE-ADCA-41FF-93D9-23E76EDC81AE}|InterviewProject.Test\\InterviewProject.Test.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.test\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4031B7DE-ADCA-41FF-93D9-23E76EDC81AE}|InterviewProject.Test\\InterviewProject.Test.csproj|solutionrelative:interviewproject.test\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.api\\interviewproject.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|solutionrelative:interviewproject.api\\interviewproject.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AF983F-C26A-4692-895B-444E0CAEC5CD}|InterviewProject.Service\\InterviewProject.Service.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.service\\interviewproject.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10AF983F-C26A-4692-895B-444E0CAEC5CD}|InterviewProject.Service\\InterviewProject.Service.csproj|solutionrelative:interviewproject.service\\interviewproject.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9DE2824-0EB2-4EBF-A25C-0B8F6D6B482A}|interviewProject.Api\\InterviewProject.Api.csproj|solutionrelative:interviewproject.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4031B7DE-ADCA-41FF-93D9-23E76EDC81AE}|InterviewProject.Test\\InterviewProject.Test.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.test\\interviewproject.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4031B7DE-ADCA-41FF-93D9-23E76EDC81AE}|InterviewProject.Test\\InterviewProject.Test.csproj|solutionrelative:interviewproject.test\\interviewproject.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E649789-5A44-4F6D-912B-03BC0CC51E1B}|InterviewProject.Data\\InterviewProject.Infrastructure.csproj|c:\\users\\vitor\\documents\\projetos\\medgrupo\\interviewproject.data\\migrations\\20240517135351_contact.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E649789-5A44-4F6D-912B-03BC0CC51E1B}|InterviewProject.Data\\InterviewProject.Infrastructure.csproj|solutionrelative:interviewproject.data\\migrations\\20240517135351_contact.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Data\\Repository\\ContactsRepository.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Data\\Repository\\ContactsRepository.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Data\\Repository\\ContactsRepository.cs",
+              "RelativeToolTip": "InterviewProject.Data\\Repository\\ContactsRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:38:13.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IContactsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Data\\Repository\\Interface\\IContactsRepository.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Data\\Repository\\Interface\\IContactsRepository.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Data\\Repository\\Interface\\IContactsRepository.cs",
+              "RelativeToolTip": "InterviewProject.Data\\Repository\\Interface\\IContactsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:40:53.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Service\\DTO\\ContactDTO.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Service\\DTO\\ContactDTO.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Service\\DTO\\ContactDTO.cs",
+              "RelativeToolTip": "InterviewProject.Service\\DTO\\ContactDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:41:01.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\Configuration\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "interviewProject.Api\\Configuration\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\Configuration\\AutoMapperConfig.cs",
+              "RelativeToolTip": "interviewProject.Api\\Configuration\\AutoMapperConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:53:59.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContatoService.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Service\\Service\\Interface\\IContatoService.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Service\\Service\\Interface\\IContatoService.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Service\\Service\\Interface\\IContatoService.cs",
+              "RelativeToolTip": "InterviewProject.Service\\Service\\Interface\\IContatoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:41:15.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactValidation.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Service\\Validation\\ContactValidation.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Service\\Validation\\ContactValidation.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Service\\Validation\\ContactValidation.cs",
+              "RelativeToolTip": "InterviewProject.Service\\Validation\\ContactValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:41:23.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Service\\Service\\ContactService.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Service\\Service\\ContactService.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Service\\Service\\ContactService.cs",
+              "RelativeToolTip": "InterviewProject.Service\\Service\\ContactService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:41:06.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelContact.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Service\\ViewModel\\ViewModelContact.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Service\\ViewModel\\ViewModelContact.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Service\\ViewModel\\ViewModelContact.cs",
+              "RelativeToolTip": "InterviewProject.Service\\ViewModel\\ViewModelContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:41:27.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestsContact.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Test\\Tests\\TestsContact.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Test\\Tests\\TestsContact.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Test\\Tests\\TestsContact.cs",
+              "RelativeToolTip": "InterviewProject.Test\\Tests\\TestsContact.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:11:17.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InterviewProjectDbModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Data\\Migrations\\InterviewProjectDbModelSnapshot.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Data\\Migrations\\InterviewProjectDbModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Data\\Migrations\\InterviewProjectDbModelSnapshot.cs",
+              "RelativeToolTip": "InterviewProject.Data\\Migrations\\InterviewProjectDbModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:37:52.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240517135351_Contact.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Data\\Migrations\\20240517135351_Contact.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Data\\Migrations\\20240517135351_Contact.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Data\\Migrations\\20240517135351_Contact.cs",
+              "RelativeToolTip": "InterviewProject.Data\\Migrations\\20240517135351_Contact.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwD4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:37:53.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InterviewProjectDb.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Data\\Data\\InterviewProjectDb.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Data\\Data\\InterviewProjectDb.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Data\\Data\\InterviewProjectDb.cs",
+              "RelativeToolTip": "InterviewProject.Data\\Data\\InterviewProjectDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:10:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Domain\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Domain\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Domain\\Entities\\Contact.cs",
+              "RelativeToolTip": "InterviewProject.Domain\\Entities\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:40:11.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactBase.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Domain\\Entities\\ContactBase.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Domain\\Entities\\ContactBase.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Domain\\Entities\\ContactBase.cs",
+              "RelativeToolTip": "InterviewProject.Domain\\Entities\\ContactBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:40:13.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "interviewProject.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "interviewProject.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T23:39:06.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\Configuration\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "interviewProject.Api\\Configuration\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\Configuration\\DependencyInjection.cs",
+              "RelativeToolTip": "interviewProject.Api\\Configuration\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:29:54.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\Program.cs",
+              "RelativeDocumentMoniker": "interviewProject.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\Program.cs",
+              "RelativeToolTip": "interviewProject.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:40:04.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "interviewProject.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\appsettings.json",
+              "RelativeToolTip": "interviewProject.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T23:37:45.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "interviewProject.Api\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "interviewProject.Api\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:30:20.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Test\\BaseTest.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Test\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Test\\BaseTest.cs",
+              "RelativeToolTip": "InterviewProject.Test\\BaseTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:32:11.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "interviewProject.Api.http",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\interviewProject.Api.http",
+              "RelativeDocumentMoniker": "interviewProject.Api\\interviewProject.Api.http",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\interviewProject.Api.http",
+              "RelativeToolTip": "interviewProject.Api\\interviewProject.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-15T23:40:01.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InterviewProject.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Service\\InterviewProject.Service.csproj",
+              "RelativeDocumentMoniker": "InterviewProject.Service\\InterviewProject.Service.csproj",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Service\\InterviewProject.Service.csproj",
+              "RelativeToolTip": "InterviewProject.Service\\InterviewProject.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T23:29:36.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "interviewProject.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\interviewProject.Api\\appsettings.Development.json",
+              "RelativeToolTip": "interviewProject.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T23:39:54.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InterviewProject.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Test\\InterviewProject.Test.csproj",
+              "RelativeDocumentMoniker": "InterviewProject.Test\\InterviewProject.Test.csproj",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Test\\InterviewProject.Test.csproj",
+              "RelativeToolTip": "InterviewProject.Test\\InterviewProject.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T23:29:48.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240517135351_Contact.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Data\\Migrations\\20240517135351_Contact.Designer.cs",
+              "RelativeDocumentMoniker": "InterviewProject.Data\\Migrations\\20240517135351_Contact.Designer.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\projetos\\medGrupo\\InterviewProject.Data\\Migrations\\20240517135351_Contact.Designer.cs",
+              "RelativeToolTip": "InterviewProject.Data\\Migrations\\20240517135351_Contact.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAawA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:21:42.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
